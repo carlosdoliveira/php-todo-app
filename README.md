@@ -27,7 +27,6 @@ A estrutura de pastas do projeto foi organizada de acordo com as melhores práti
   - /config
     - config.php
   - /vendor
-  - /templates_c
 ```
 
 ## Configuração
